@@ -22,9 +22,9 @@ Property_Area: Type of property area (Urban, Semiurban, Rural). <br>
 Loan_Status: Loan approval status (Y: Approved, N: Not Approved) (Target Variable).   <br>
 
 ## </h> 📌  Exploratory Data Analysis (EDA)
- </p> Visualized distributions of numerical features.
-Checked the correlation between loan approval status and key features.
-Identified patterns in income, loan amount, and credit history. <p>
+ </p> # Visualized distributions of numerical features. <br>
+# Checked the correlation between loan approval status and key features.<br>
+# Identified patterns in income, loan amount, and credit history. <br>
 <br>
  
 ## </h> 📌 Model Preparation
